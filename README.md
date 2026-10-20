@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Galería</title>
+</head>
+<body>
+
+    <h1>Bienvenido</h1>
+    <p>Indice:</p> 
+    <ul>
+        <li><a href="sala1.html">Sala 1: Aves</a></li>
+        <li><a href="sala2.html">Sala 2: Dragon Ball</a></li>
+        <li><a href="sala3.html">Sala 3: Breaking Bad</a></li>
+    </ul>
+    <div>
